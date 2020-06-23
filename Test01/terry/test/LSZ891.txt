@@ -1,0 +1,8 @@
+﻿HDservice
+Peter.Liao
+CN.HC_D_N_Admin
+administrator
+Domain Admins
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins

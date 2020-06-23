@@ -1,0 +1,8 @@
+﻿Administrator
+hdservice
+Hugh.Guo
+Domain Admins
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins
+Shirley.LiuTJ

@@ -1,0 +1,8 @@
+﻿Administrator
+hdservice
+CN.HC_D_N_Admin
+Prince.Liu
+Domain Admins
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins

@@ -1,0 +1,9 @@
+﻿Administrator
+hdservice
+CN.HC_D_N_Admin
+S-1-5-21-1409195887-2699320838-2411541931-85548
+Jacob.Lin
+Domain Admins
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins

@@ -1,0 +1,11 @@
+﻿Administrator
+hdservice
+ricky.yang
+CN.HC_D_N_Admin
+NETWORK SERVICE
+LOCAL SERVICE
+Domain Admins
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins
+Ricky.Yang

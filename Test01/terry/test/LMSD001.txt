@@ -1,0 +1,9 @@
+﻿Administrator
+hdservice
+sam.sun
+CN.HC_D_N_Admin
+admin
+Domain Admins
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins

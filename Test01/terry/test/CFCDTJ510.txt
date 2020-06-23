@@ -1,0 +1,12 @@
+﻿Administrator
+hdservice
+Simon.Sun
+John.Pang
+Bell.Shi
+admin
+clare.ren
+CN.HC_D_N_Admin
+Domain Admins
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins

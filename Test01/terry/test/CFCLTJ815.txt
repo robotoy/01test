@@ -1,0 +1,9 @@
+﻿Administrator
+hdservice
+Tracy.Sun
+NETWORK SERVICE
+LOCAL SERVICE
+Domain Admins
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins

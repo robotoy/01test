@@ -1,0 +1,11 @@
+﻿Administrator
+jimmy.lu
+jimmy
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins
+adm.jimmy
+hdservice
+S-1-5-21-1982952616-470739201-1483159592-3033
+Wayde.Shi
+Domain Admins

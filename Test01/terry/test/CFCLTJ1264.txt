@@ -1,0 +1,9 @@
+﻿Administrator
+hdservice
+CN.HC_D_N_Admin
+David.Skarka
+Domain Admins
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins
+David.Skarka

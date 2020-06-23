@@ -1,0 +1,10 @@
+﻿Administrator
+CN.HC_D_N_Admin
+John.Pang
+hdservice
+Shawn.ZhangTJ
+Kevin.Wu
+Domain Admins
+CN.Migadmins.scv
+CN.Computers.Admins
+CN.Migration.Admins
